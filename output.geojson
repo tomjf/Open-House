@@ -1,0 +1,1321 @@
+ { "type" : "Feature Collection",
+    {"features" : [
+         { "type" : "Feature",
+        "id" : 10 Exchange Square - Rooftop,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["10 Exchange Square Appold Street","http://events.londonopenhouse.org/building/16708"]},
+        "properties" : { "name" : " EC2M 2QA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 10 Downing Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["10 Downing Street","http://events.londonopenhouse.org/building/4968"]},
+        "properties" : { "name" : " SW1A 2AA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 142 Bermondsey Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 142 Bermondsey Street","http://events.londonopenhouse.org/building/20371"]},
+        "properties" : { "name" : " SE1 3TX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 10 New Burlington Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["10 New Burlington Street","http://events.londonopenhouse.org/building/19945"]},
+        "properties" : { "name" : " W1S 3BF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 13-18 Sidworth Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["13-18 Sidworth Street","http://events.londonopenhouse.org/building/20285"]},
+        "properties" : { "name" : " E8 3SD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 100 Victoria Embankment - Unilever House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["100 Victoria Embankment","http://events.londonopenhouse.org/building/2810"]},
+        "properties" : { "name" : " EC4Y 0DY", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 106 Gladstone Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["106 Gladstone Road","http://events.londonopenhouse.org/building/20337"]},
+        "properties" : { "name" : " SW19 1QW", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 1 Finsbury Circus,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["1 Finsbury Circus","http://events.londonopenhouse.org/building/17641"]},
+        "properties" : { "name" : " EC2M 7EB", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 111 Tyers Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["111 Tyers Street","http://events.londonopenhouse.org/building/20202"]},
+        "properties" : { "name" : " SE11 5HS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 15 and a half Consort Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["15 and a half Consort Road","http://events.londonopenhouse.org/building/16428"]},
+        "properties" : { "name" : " SE15 2PH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 30 Crown Place,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["30 Crown Place","http://events.londonopenhouse.org/building/18272"]},
+        "properties" : { "name" : " EC2A 4ES", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 55 Broadway (London Underground Head Office),
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["55 Broadway","http://events.londonopenhouse.org/building/1562"]},
+        "properties" : { "name" : " SW1H 0BD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 6 Bevis Marks,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Entrance on Bury Court","http://events.londonopenhouse.org/building/20081"]},
+        "properties" : { "name" : " EC3A 7BA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 240 Blackfriars,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["240 Blackfriars Road","http://events.londonopenhouse.org/building/19942"]},
+        "properties" : { "name" : " SE1 8NV", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 55 Baker Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["55 Baker Street","http://events.londonopenhouse.org/building/16915"]},
+        "properties" : { "name" : " W1U 8EW", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 30 St Mary Axe (The Gherkin),
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["30 St Mary Axe","http://events.londonopenhouse.org/building/14974"]},
+        "properties" : { "name" : " EC3A 8EP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 30 Cardozo Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["30 Cardozo Road","http://events.londonopenhouse.org/building/19581"]},
+        "properties" : { "name" : " N7 9RL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 264 Westbourne Park Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["264 Westbourne Park Road","http://events.londonopenhouse.org/building/16829"]},
+        "properties" : { "name" : " W11 1EJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 24 St John's Church Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["24 St John's Church Road","http://events.londonopenhouse.org/building/20430"]},
+        "properties" : { "name" : " E9 6EJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 15b Herne Hill Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["15b Herne Hill Road","http://events.londonopenhouse.org/building/19317"]},
+        "properties" : { "name" : " SE24 0AU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 3floor-in2 Apartment,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["17 Elgin Crescent","http://events.londonopenhouse.org/building/19854"]},
+        "properties" : { "name" : " W11 2JD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 17-21 Wenlock Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["17-21 Wenlock Road","http://events.londonopenhouse.org/building/20149"]},
+        "properties" : { "name" : " N1 7SL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 20 Winkley Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["20 Winkley Street","http://events.londonopenhouse.org/building/20042"]},
+        "properties" : { "name" : " E2 6PY", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 15 Edge Hill,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["15 Edge Hill","http://events.londonopenhouse.org/building/18377"]},
+        "properties" : { "name" : " SW19 4LR", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 2 [point] 88,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["10 Regal Lane","http://events.londonopenhouse.org/building/20335"]},
+        "properties" : { "name" : " NW1 7TH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 18 Stafford Terrace - The Sambourne Family Home,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["18 Stafford Terrace","http://events.londonopenhouse.org/building/1793"]},
+        "properties" : { "name" : " W8 7BH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Dover House, Office of the Secretary of State for Scotland,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["66 Whitehall","http://events.londonopenhouse.org/building/1531"]},
+        "properties" : { "name" : " SW1A 2AU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Horse Guards,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Whitehall","http://events.londonopenhouse.org/building/1396"]},
+        "properties" : { "name" : " SW1A 2AX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : HM Treasury,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["1 Horse Guards Road","http://events.londonopenhouse.org/building/3720"]},
+        "properties" : { "name" : " SW1A 2HQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Government Art Collection,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 179a Tottenham Court Road","http://events.londonopenhouse.org/building/3872"]},
+        "properties" : { "name" : " W1T 7PA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Admiralty House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Ripley Courtyard","http://events.londonopenhouse.org/building/14993"]},
+        "properties" : { "name" : " SW1A 2DY", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Foreign & Commonwealth Office,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["King Charles Street","http://events.londonopenhouse.org/building/907"]},
+        "properties" : { "name" : " SW1A 2AH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Marlborough House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Pall Mall","http://events.londonopenhouse.org/building/3191"]},
+        "properties" : { "name" : " SW1Y 5HX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Custom House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["20 Lower Thames Street","http://events.londonopenhouse.org/building/1830"]},
+        "properties" : { "name" : " EC3R 6EE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 22 Whitehall - DFID (formerly 26 Whitehall),
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Whitehall","http://events.londonopenhouse.org/building/1533"]},
+        "properties" : { "name" : " SW1A 2EG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Alexandra Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["13(b) Rowley Way","http://events.londonopenhouse.org/building/16594"]},
+        "properties" : { "name" : " NW8 0SF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 5 Pancras Square,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["5 Pancras Square","http://events.londonopenhouse.org/building/693"]},
+        "properties" : { "name" : " N1C 4AG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : BedZED,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["24 Helios Road","http://events.londonopenhouse.org/building/14760"]},
+        "properties" : { "name" : " SM6 7BZ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Adelaide Wharf,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["118/120 Queensbridge Road (at junction Whiston Road)","http://events.londonopenhouse.org/building/17162"]},
+        "properties" : { "name" : " E2 8PD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Cressingham Gardens,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Cressingham Gardens Rotunda","http://events.londonopenhouse.org/building/19654"]},
+        "properties" : { "name" : " SW2 2NJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Central Hill Estate,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Corner of Central Hill and Vicars Oak Road","http://events.londonopenhouse.org/building/20427"]},
+        "properties" : { "name" : " SE19 1DT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Courtyard Housing,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Wood Lane","http://events.londonopenhouse.org/building/19436"]},
+        "properties" : { "name" : " RM8 1JX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Brentham Garden Suburb,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 38 Meadvale Road","http://events.londonopenhouse.org/building/3078"]},
+        "properties" : { "name" : " W5 1NP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 19 Mayfield Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["19 Mayfield Road","http://events.londonopenhouse.org/building/18758"]},
+        "properties" : { "name" : " N8 9LL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 155 Holland Park Avenue,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["155 Holland Park Avenue","http://events.londonopenhouse.org/building/4732"]},
+        "properties" : { "name" : " W11 4UX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 2 Willow Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["2 Willow Road","http://events.londonopenhouse.org/building/1549"]},
+        "properties" : { "name" : " NW3 1TH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Airport House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Purley Way","http://events.londonopenhouse.org/building/15847"]},
+        "properties" : { "name" : " CR0 0XZ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : All Saints Carshalton,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["High Street","http://events.londonopenhouse.org/building/16235"]},
+        "properties" : { "name" : " SM5 3AQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 6 Segal Close,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["6 Segal Close","http://events.londonopenhouse.org/building/20369"]},
+        "properties" : { "name" : " SE23 1PP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : All Hallows Parish Church,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Chertsey Road","http://events.londonopenhouse.org/building/3000"]},
+        "properties" : { "name" : " TW1 1EW", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 639 Tottenham High Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["639 Tottenham High Road","http://events.londonopenhouse.org/building/19204"]},
+        "properties" : { "name" : " N17 8AA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Adobe Village Hounslow Heath Infant and Nursery School,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Martindale Road","http://events.londonopenhouse.org/building/18713"]},
+        "properties" : { "name" : " TW4 7HE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Abbey Mills Pumping Station,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Abbey Lane","http://events.londonopenhouse.org/building/4157"]},
+        "properties" : { "name" : " E15 2RW", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 73 Chester Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["73 Chester Road","http://events.londonopenhouse.org/building/16875"]},
+        "properties" : { "name" : " N19 5DH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 54 Cambria Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["54 Cambria Road","http://events.londonopenhouse.org/building/18792"]},
+        "properties" : { "name" : " SE5 9AS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 37a Leamington Road Villas,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["37a Leamington Road Villas","http://events.londonopenhouse.org/building/19314"]},
+        "properties" : { "name" : " W11 1HT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 68 Dean Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["68 Dean Street","http://events.londonopenhouse.org/building/1832"]},
+        "properties" : { "name" : " W1D 4QJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 88 Wood Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["88 Wood Street","http://events.londonopenhouse.org/building/4909"]},
+        "properties" : { "name" : " EC2V 7AJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bow Church - St Mary's and Holy Trinity,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Bow Road","http://events.londonopenhouse.org/building/2993"]},
+        "properties" : { "name" : " E3 3AH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Broadgate Art Tour,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Broadgate Circle","http://events.londonopenhouse.org/building/20321"]},
+        "properties" : { "name" : " EC2A 2QS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Connected Croydon - On Site,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet: Sat at 2pm at East Croydon train station main entrance on George Street","http://events.londonopenhouse.org/building/19616"]},
+        "properties" : { "name" : " CR0 1LF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bankside Urban Forest,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 18 Great Guildford Street","http://events.londonopenhouse.org/building/19582"]},
+        "properties" : { "name" : " SE1 0FD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Clapham Old Town and Venn Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet: Sun 2pm by the Clock Tower next to Clapham Common tube","http://events.londonopenhouse.org/building/19640"]},
+        "properties" : { "name" : " SW4 0BD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bedford Park,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 1 Priory Gardens","http://events.londonopenhouse.org/building/4910"]},
+        "properties" : { "name" : " W4 1TT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Barking Town Centre Tour,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Clockhouse Avenue","http://events.londonopenhouse.org/building/19577"]},
+        "properties" : { "name" : " IG11 7LU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Christchurch with St Laurence,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Willesden Lane","http://events.londonopenhouse.org/building/2348"]},
+        "properties" : { "name" : " NW6 7BG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Alexandra Road Park and Tenants Hall,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Langtry Walk/Rowley Way","http://events.londonopenhouse.org/building/20316"]},
+        "properties" : { "name" : " NW8 0SW", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 39-47 Gordon Square (Birkbeck School of Arts),
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["43 Gordon Square","http://events.londonopenhouse.org/building/18763"]},
+        "properties" : { "name" : " WC1H 0PD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Billingsgate Roman House and Baths,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["101 Lower Thames Street","http://events.londonopenhouse.org/building/18631"]},
+        "properties" : { "name" : " EC3R 6DL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Charlton House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Charlton Road","http://events.londonopenhouse.org/building/1619"]},
+        "properties" : { "name" : " SE7 8RE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Burgh House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["New End Square","http://events.londonopenhouse.org/building/3496"]},
+        "properties" : { "name" : " NW3 1LT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Clissold House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Clissold Park","http://events.londonopenhouse.org/building/2954"]},
+        "properties" : { "name" : " N16 9HJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Boston Manor House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Boston Manor Road","http://events.londonopenhouse.org/building/2315"]},
+        "properties" : { "name" : " TW8 9JX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Carshalton Water Tower and Historic Gardens,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["West Street","http://events.londonopenhouse.org/building/16231"]},
+        "properties" : { "name" : " SM5 2QG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Benjamin Franklin House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["36 Craven Street","http://events.londonopenhouse.org/building/3992"]},
+        "properties" : { "name" : " WC2N 5NF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Banqueting House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Whitehall","http://events.londonopenhouse.org/building/1522"]},
+        "properties" : { "name" : " SW1A 2ER", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bruce Castle Museum,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Lordship Lane","http://events.londonopenhouse.org/building/2363"]},
+        "properties" : { "name" : " N17 8NU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Baitul Futuh Mosque,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 181 London Road","http://events.londonopenhouse.org/building/15924"]},
+        "properties" : { "name" : " SM4 5PT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Brompton Cemetery Chapel, Colonnades and Memorials,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Old Brompton Road SW5 or Fulham Road","http://events.londonopenhouse.org/building/2406"]},
+        "properties" : { "name" : " SW10 9UG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bishopsgate Institute,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["230 Bishopsgate","http://events.londonopenhouse.org/building/3716"]},
+        "properties" : { "name" : " EC2M 4QH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : British Museum Underground,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Great Russell Street","http://events.londonopenhouse.org/building/20276"]},
+        "properties" : { "name" : " WC1B 3DG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : BAPS Shri Swaminarayan Mandir,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["105-119 Brentfield Road","http://events.londonopenhouse.org/building/2519"]},
+        "properties" : { "name" : " NW10 8LD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The Stanley Halls,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["12 South Norwood Hill","http://events.londonopenhouse.org/building/18007"]},
+        "properties" : { "name" : " SE25 6AB", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : London Dock - Pennington Street Warehouses,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Pennington Street","http://events.londonopenhouse.org/building/20438"]},
+        "properties" : { "name" : " E1W 2AD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Trinity Buoy Wharf/Container City,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["64 Orchard Place E14 0JY","http://events.londonopenhouse.org/building/3523"]},
+        "properties" : { "name" : " E14 0JW", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Ruskin Square on Site,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Dingwall Road","http://events.londonopenhouse.org/building/20318"]},
+        "properties" : { "name" : " CR0 2LX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The Wheelhouse,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Merantun Way","http://events.londonopenhouse.org/building/19370"]},
+        "properties" : { "name" : " SW19 2RD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : St Mary of Eton Church Mixed Use Development,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["95 Eastway","http://events.londonopenhouse.org/building/20204"]},
+        "properties" : { "name" : " E9 5JA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Barking Riverside Development - Rivergate Centre Buzzards Mouth,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Entry to Exhibition in Rivergate Centre on Minter Road (access via Marine Drive)","http://events.londonopenhouse.org/building/18155"]},
+        "properties" : { "name" : " IG11 0FJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : 52 Whitmore Road,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["52 Whitmore Road","http://events.londonopenhouse.org/building/19435"]},
+        "properties" : { "name" : " N1 5QG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Brunel Museum,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Railway Avenue","http://events.londonopenhouse.org/building/1798"]},
+        "properties" : { "name" : " SE16 4LF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Build a lego masterpiece! at the Royal College of Physicians,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 11 St Andrews Place","http://events.londonopenhouse.org/building/20450"]},
+        "properties" : { "name" : " NW1 4LE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Arts and Crafts! at The Lookout,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Isis Education Centre at The LookOut","http://events.londonopenhouse.org/building/20451"]},
+        "properties" : { "name" : " W2 2UH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : BAC (Battersea Arts Centre),
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Lavender Hill","http://events.londonopenhouse.org/building/730"]},
+        "properties" : { "name" : " SW11 5TN", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Asia House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["63 New Cavendish Street","http://events.londonopenhouse.org/building/16751"]},
+        "properties" : { "name" : " W1G 7LP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Acton Town Hall,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Acton High Street","http://events.londonopenhouse.org/building/16007"]},
+        "properties" : { "name" : " W3 6NG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Arcola Theatre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["24 Ashwin Street","http://events.londonopenhouse.org/building/18268"]},
+        "properties" : { "name" : " E8 3DL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Anise Gallery / AVR London,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["13a Shad Thames","http://events.londonopenhouse.org/building/20266"]},
+        "properties" : { "name" : " SE1 2PU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : St Pancras International,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet at special assistance meeting point (next to Starbucks) Euston Road","http://events.londonopenhouse.org/building/17216"]},
+        "properties" : { "name" : " N1C 4QP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : London Underground - Bakerloo Tour,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet: Queen's Park Station","http://events.londonopenhouse.org/building/20323"]},
+        "properties" : { "name" : " NW6 6NL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Emirates Air Line tour,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet: Emirates Greenwich Peninsula","http://events.londonopenhouse.org/building/18928"]},
+        "properties" : { "name" : " SE10 0DX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Crystal Palace Subway,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Crystal Palace Parade","http://events.londonopenhouse.org/building/2306"]},
+        "properties" : { "name" : " SE19 1LG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Crossrail Liverpool Street Construction Sites,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Crossrail Liverpool Street Site. 1-14 Liverpool Street","http://events.londonopenhouse.org/building/19486"]},
+        "properties" : { "name" : " EC2M 7NH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Rayners Lane Station,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Alexandra Avenue","http://events.londonopenhouse.org/building/20399"]},
+        "properties" : { "name" : " HA5 5EG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Charterhouse Chapel,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Charterhouse Square","http://events.londonopenhouse.org/building/2401"]},
+        "properties" : { "name" : " EC1M 6AN", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Christ Church Southgate and the Minchenden Oak Garden,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Waterfall Road","http://events.londonopenhouse.org/building/18376"]},
+        "properties" : { "name" : " N14 7EG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Buddhapadipa Temple,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["14 Calonne Road","http://events.londonopenhouse.org/building/3607"]},
+        "properties" : { "name" : " SW19 5HJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Barking Abbey with St Margaret's Church,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" North Street","http://events.londonopenhouse.org/building/16247"]},
+        "properties" : { "name" : " IG11 8AS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bells and Belfries at St Botolph Aldgate,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Aldgate High Street","http://events.londonopenhouse.org/building/4154"]},
+        "properties" : { "name" : " EC3N 1AB", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bow Arts,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["183 Bow Road","http://events.londonopenhouse.org/building/19904"]},
+        "properties" : { "name" : " E3 2SJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Dugdale Centre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 39 London Road","http://events.londonopenhouse.org/building/18880"]},
+        "properties" : { "name" : " EN2 6DS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : ArtsLav,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["180 Kennington Lane","http://events.londonopenhouse.org/building/19694"]},
+        "properties" : { "name" : " SE11 4UZ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Deptford Lounge,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["9 Giffin Street","http://events.londonopenhouse.org/building/18505"]},
+        "properties" : { "name" : " SE8 4RJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Grove Gardens Chapel,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Grove Gardens","http://events.londonopenhouse.org/building/2957"]},
+        "properties" : { "name" : " TW10 6HP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Ilford War Memorial Hall,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Eastern Avenue","http://events.londonopenhouse.org/building/17041"]},
+        "properties" : { "name" : " IG2 7RJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Four Corners,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["121 Roman Road","http://events.londonopenhouse.org/building/17017"]},
+        "properties" : { "name" : " E2 0QN", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bow School,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Gillender Street ","http://events.londonopenhouse.org/building/19585"]},
+        "properties" : { "name" : " E3 3JY", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Ark Brunel Primary Academy,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Middle Row","http://events.londonopenhouse.org/building/20370"]},
+        "properties" : { "name" : " W10 5AT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bushy House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Queens Road","http://events.londonopenhouse.org/building/3155"]},
+        "properties" : { "name" : " TW11 0EB.", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Burntwood School,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Burntwood Lane","http://events.londonopenhouse.org/building/19843"]},
+        "properties" : { "name" : " SW17 0AQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Ashmount Primary School,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["83 Crouch Hill","http://events.londonopenhouse.org/building/19202"]},
+        "properties" : { "name" : " N8 9EG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bancroft's School,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["611 High Road","http://events.londonopenhouse.org/building/3282"]},
+        "properties" : { "name" : " IG8 0RF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Brandlehow Primary School,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Brandlehow Road","http://events.londonopenhouse.org/building/16748"]},
+        "properties" : { "name" : " SW15 2ED", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Highams Park Signal Box,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Hale End Road","http://events.londonopenhouse.org/building/19559"]},
+        "properties" : { "name" : " E4 9PT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : King George V Pumping Station,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Swan & Pike Road","http://events.londonopenhouse.org/building/2374"]},
+        "properties" : { "name" : " EN3 6JH.", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Markfield Beam Engine and House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Markfield Road","http://events.londonopenhouse.org/building/2578"]},
+        "properties" : { "name" : " N15 4RB", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : House Mill,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Three Mills Lane","http://events.londonopenhouse.org/building/2691"]},
+        "properties" : { "name" : " E3 3DU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bunhill Heat and Power Energy Centre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Central Street","http://events.londonopenhouse.org/building/19356"]},
+        "properties" : { "name" : " EC1V 3QB", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Old Ford Water Recycling Plant,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Dace Road E3 2NW (site can be accessed from the Greenway)","http://events.londonopenhouse.org/building/19206"]},
+        "properties" : { "name" : " E20 2ST", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Pimlico District Heating Undertaking (PDHU),
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Churchill Gardens Road","http://events.londonopenhouse.org/building/18804"]},
+        "properties" : { "name" : " SW1V 3JF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Kempton Great Engines Trust,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Snakey Lane","http://events.londonopenhouse.org/building/18522"]},
+        "properties" : { "name" : " TW13 7ND", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Ealing Common Walk,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet: Sat 2pm at Hanger Lane end of Inglis Road","http://events.londonopenhouse.org/building/3707"]},
+        "properties" : { "name" : " W5 3RN", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : City Alleyways to the East,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Guildhall Yard","http://events.londonopenhouse.org/building/20293"]},
+        "properties" : { "name" : " EC2V 5AE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : City Alleyways South West,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Guildhall Yard","http://events.londonopenhouse.org/building/4886"]},
+        "properties" : { "name" : " EC2V 5AE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : City Hunt Bermondsey,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Stall located on Bermondsey Street","http://events.londonopenhouse.org/building/20303"]},
+        "properties" : { "name" : " SE1", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Arriva Bus Tour,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["London","http://events.londonopenhouse.org/building/20087"]},
+        "properties" : { "name" : " England", "value" : ""}
+        },
+         { "type" : "Feature",
+        "id" : Elm Park Garden Suburb Walk,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet: Saturday 10.30am at Elm Park Station entrance (District Line)","http://events.londonopenhouse.org/building/20254"]},
+        "properties" : { "name" : " RM12 4RW", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Creative Church Street,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Gateforth Street","http://events.londonopenhouse.org/building/20258"]},
+        "properties" : { "name" : " NW8 8EH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Canons Park Estate,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Rose Garden Close","http://events.londonopenhouse.org/building/20436"]},
+        "properties" : { "name" : " HA8 7RF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Canons Park,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Canons Park","http://events.londonopenhouse.org/building/16971"]},
+        "properties" : { "name" : " HA8 6RH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Guildhall - The Magna Carta Lights up the City of London,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Gresham Street","http://events.londonopenhouse.org/building/20312"]},
+        "properties" : { "name" : " EC2V 5AE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Cody Dock,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["11c South Crescent","http://events.londonopenhouse.org/building/18801"]},
+        "properties" : { "name" : " E16 4TL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Grow Elephant,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["New Kent Road","http://events.londonopenhouse.org/building/19407"]},
+        "properties" : { "name" : " SE17 1SL", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Barbican Open Garden,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Meet: Ticket Hall of Barbican Station","http://events.londonopenhouse.org/building/20429"]},
+        "properties" : { "name" : " EC1A 4JA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The Fan Museum,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["12 Crooms Hill","http://events.londonopenhouse.org/building/4791"]},
+        "properties" : { "name" : " SE10 8ER", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Havering Museum,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["19-21 High Street","http://events.londonopenhouse.org/building/18095"]},
+        "properties" : { "name" : " RM1 1JU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The Cinema Museum,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 2 Dugard Way ","http://events.londonopenhouse.org/building/3825"]},
+        "properties" : { "name" : " SE11 4TH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Horniman Museum and Gardens,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["100 London Road","http://events.londonopenhouse.org/building/16170"]},
+        "properties" : { "name" : " SE23 3PQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : London Fire Brigade Museum, Winchester House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["94 Southwark Bridge Road","http://events.londonopenhouse.org/building/3315"]},
+        "properties" : { "name" : " SE1 0EG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Old Operating Theatre Museum & Herb Garret,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["9a St Thomas Street","http://events.londonopenhouse.org/building/1501"]},
+        "properties" : { "name" : " SE1 9RY", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Thames River Police,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["98 Wapping High Street","http://events.londonopenhouse.org/building/15283"]},
+        "properties" : { "name" : " E1W 2NE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : London Museum of Water & Steam,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Green Dragon Lane","http://events.londonopenhouse.org/building/8349"]},
+        "properties" : { "name" : " TW8 0EN", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The City of London Cemetery and Crematorium at Aldersbrook,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Aldersbrook Road","http://events.londonopenhouse.org/building/17943"]},
+        "properties" : { "name" : " E12 5DQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Sir Richard Burton's Mausoleum,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 61 North Worple Way","http://events.londonopenhouse.org/building/17952"]},
+        "properties" : { "name" : " SW14 8PR", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Kilmorey Mausoleum,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["275 St Margaret's Road (opposite Ailsa Tavern)","http://events.londonopenhouse.org/building/3728"]},
+        "properties" : { "name" : " TW1 1NJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : West Norwood Cemetery & Greek Chapel,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Norwood Road","http://events.londonopenhouse.org/building/3823"]},
+        "properties" : { "name" : " SE27 9JU", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Tower Hamlets Cemetery Park,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" Southern Grove","http://events.londonopenhouse.org/building/4718"]},
+        "properties" : { "name" : " E3 4PX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Nunhead Cemetery,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Linden Grove","http://events.londonopenhouse.org/building/4073"]},
+        "properties" : { "name" : " SE15 3LP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Highgate Literary & Scientific Institution,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["11 South Grove","http://events.londonopenhouse.org/building/1908"]},
+        "properties" : { "name" : " N6 6BS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Armoury House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["City Road","http://events.londonopenhouse.org/building/20298"]},
+        "properties" : { "name" : " EC1Y 2BQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : British Medical Association House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Tavistock Square","http://events.londonopenhouse.org/building/910"]},
+        "properties" : { "name" : " WC1H 9JP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Burlington House: Society of Antiquaries of London,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Burlington House","http://events.londonopenhouse.org/building/3529"]},
+        "properties" : { "name" : " W1J 0BE", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Burlington House: Royal Astronomical Society,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Burlington House","http://events.londonopenhouse.org/building/17345"]},
+        "properties" : { "name" : " W1J 0BQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Burlington House: The Geological Society of London,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Burlington House","http://events.londonopenhouse.org/building/18144"]},
+        "properties" : { "name" : " W1J 0BG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bank of England,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Threadneedle Street","http://events.londonopenhouse.org/building/999"]},
+        "properties" : { "name" : " EC2R 8AH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Burlington House: Royal Society of Chemistry,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Burlington House","http://events.londonopenhouse.org/building/15150"]},
+        "properties" : { "name" : " W1J 0BA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Burlington House: Linnean Society of London,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Burlington House","http://events.londonopenhouse.org/building/4097"]},
+        "properties" : { "name" : " W1J 0BF", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Finsbury Town Hall,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Rosebery Avenue","http://events.londonopenhouse.org/building/2403"]},
+        "properties" : { "name" : " EC1R 4RP", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Langtons House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Billet Lane","http://events.londonopenhouse.org/building/3483"]},
+        "properties" : { "name" : " RM11 1XJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : City Hall,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["The Queen's Walk","http://events.londonopenhouse.org/building/8360"]},
+        "properties" : { "name" : " SE1 2AA", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Redbridge Town Hall, Council Chamber,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["128-142 High Road","http://events.londonopenhouse.org/building/2854"]},
+        "properties" : { "name" : " IG1 1DD", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Brent Civic Centre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Engineers Way","http://events.londonopenhouse.org/building/19618"]},
+        "properties" : { "name" : " HA9 0FJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Hornsey Town Hall,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["The Broadway","http://events.londonopenhouse.org/building/2128"]},
+        "properties" : { "name" : " N8 9JJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Croydon Town Hall and Clocktower Complex,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Katharine Street","http://events.londonopenhouse.org/building/15853"]},
+        "properties" : { "name" : " CR9 1ET", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Guildhall,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Gresham Street","http://events.londonopenhouse.org/building/1949"]},
+        "properties" : { "name" : " EC2V 7HH", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bernard Weatherill House,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["8 Mint Walk","http://events.londonopenhouse.org/building/19630"]},
+        "properties" : { "name" : " CR0 1QQ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : National Theatre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["South Bank","http://events.londonopenhouse.org/building/1393"]},
+        "properties" : { "name" : " SE1 9PX", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The Queen's Theatre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Billet Lane","http://events.londonopenhouse.org/building/3489"]},
+        "properties" : { "name" : " RM11 1QT", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Bush Theatre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["7 Uxbridge Road","http://events.londonopenhouse.org/building/18635"]},
+        "properties" : { "name" : " W12 8LJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The Old Vic,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["The Cut","http://events.londonopenhouse.org/building/1964"]},
+        "properties" : { "name" : " SE1 8NB", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : The Broadway,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["Broadway","http://events.londonopenhouse.org/building/16309"]},
+        "properties" : { "name" : " IG11 7LS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Langdon Down Centre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["2a Langdon Park","http://events.londonopenhouse.org/building/1898"]},
+        "properties" : { "name" : " TW11 9PS", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : New Wimbledon Theatre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["93 The Broadway","http://events.londonopenhouse.org/building/3452"]},
+        "properties" : { "name" : " SW19 1QG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Hackney Empire,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["291 Mare Street","http://events.londonopenhouse.org/building/1592"]},
+        "properties" : { "name" : " E8 1EJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Richmond Theatre,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["The Green","http://events.londonopenhouse.org/building/2413"]},
+        "properties" : { "name" : " TW9 1QJ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Al Jazeera Media Network UK,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [" 32 London Bridge Street","http://events.londonopenhouse.org/building/20264"]},
+        "properties" : { "name" : " SE1 9SG", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Sands Films Studios & Rotherhithe Picture Research Library,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["82 St Marychurch Street","http://events.londonopenhouse.org/building/1810"]},
+        "properties" : { "name" : " SE16 4HZ", "value" : " London"}
+        },
+         { "type" : "Feature",
+        "id" : Channel Four Television,
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : ["124 Horseferry Road","http://events.londonopenhouse.org/building/3540"]},
+        "properties" : { "name" : " SW1P 2TX", "value" : " London"}
+        },
+         ]
+}
+    
